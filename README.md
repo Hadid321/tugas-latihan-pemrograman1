@@ -1,3 +1,5 @@
+# P4_Hadid Riansyah
+
 # latihan1
 <img width="1112" height="658" alt="image" src="https://github.com/user-attachments/assets/0be9700e-1d39-4cfc-8521-12c95f666217" />
 
